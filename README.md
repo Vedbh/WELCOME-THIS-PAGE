@@ -150,7 +150,7 @@
         <a href="https://vedbh.github.io/WELCOME-TO-HOME-PAGE/">Home</a>
         <a href="https://vedbh.github.io/WELCOME-TO-ABOUT-PAGE/">About</a>
         <a href="https://vedbhogayta.github.io/SERVICES/">Services</a>
-        <a href="#">Contact</a>
+        <a href="https://vedbh.github.io/CONTACT-US/">Contact</a>
     </div>
 
     <!-- Main content area -->
