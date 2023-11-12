@@ -180,7 +180,7 @@
         <p>&copy; 2023 Ved Website. All rights reserved.</p>
     </footer>
 
-      </div>
+    
       
     <script>
         function openNav() {
