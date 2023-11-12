@@ -149,7 +149,7 @@
         <a href="javascript:void(0)" class="close-btn" onclick="closeNav()">×</a>
         <a href="#">Home</a>
         <a href="#">About</a>
-        <a href="https://vedbhogayta.github.io/rummy-circle/">Services</a>
+        <a href="https://vedbhogayta.github.io/SERVICES/">Services</a>
         <a href="#">Contact</a>
     </div>
 
