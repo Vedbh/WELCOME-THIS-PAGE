@@ -158,7 +158,7 @@
         <a href="https://vedbh.github.io/WELCOME-TO-ABOUT-PAGE/">About</a>
         <a href="https://vedbhogayta.github.io/SERVICES/">Services</a>
         <a href="https://vedbh.github.io/CONTACT-US/">Contact Us</a>
-        <a href="">Sign In</a>
+        <a href="https://vedbh.github.io/SIGN-IN-PAGE/">Sign In</a>
     </div>
 
     <!-- Main content area -->
