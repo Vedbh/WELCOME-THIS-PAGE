@@ -145,7 +145,7 @@
 
 
     <header>
-        <h1>HAPPY DIWALI</h1>
+        <h1>WELCOME TO THIS PAGE</h1>
     </header>
 
     <!-- Sidebar toggle button -->
