@@ -37,6 +37,9 @@
                         <li class="nav-item">
                             <a class="nav-link" href="remove.html">Remove Room</a>
                         </li>
+                        <li>
+                            <a class="nav-link" href="admin.html">Admin page</a>
+                        </li>
                     </ul>
                </div>
             </div>
