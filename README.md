@@ -125,7 +125,7 @@ footer{
     <p2>0.601199 (USD)</p2><ul></ul>
     <p3>50 (INR)</p3>
    <center><button onclick="downloadPDF('|| Without Investment earn Money.Pdf ||')">CLICK TO PAY</button>
-
+   </div>
 
 <div class="product">
     <img src="2.png" alt="captcha typing And Earn Money">
@@ -140,7 +140,7 @@ footer{
     <p2>0.601199 (USD)</p2><ul></ul>
     <p3>50 (INR)</p3>
     <center><button onclick="downloadPDF('|| Captcha Typing.pdf ||')">CLICK TO PAY</button>
-
+</div>
 <div class="product">
   <img src="maxresdefault.jpg" alt="Invest Only 10 Ruppes And Earn 100 Instant">
   <p class="description">Unlock incredible returns with just a 10 Rupee investment! Experience instant growth as your investment multiplies to 100 Rupees. Don't miss this golden opportunity to make your money work for you. Join now for quick and rewarding financial gains, turning a small investment into significant returns in no time!</p>
@@ -148,7 +148,7 @@ footer{
   <p2>0.601199 (USD)</p2><ul></ul>
   <p3>50 (INR)</p3>
   <center><button onclick="downloadPDF('|| Invest Only 10 Ruppes And Earn 100 Instant.pdf ||')">CLICK TO PAY</button>
-
+  </div>
 <div class="product">
   <img src="4.jpg" alt="Quiz or Show Ads And Correct Ans Get 100,500,1000 Instant Your UPI">
   <p class="description">Engage, Learn, and Win! Participate in our Quiz or Show Ads challenge for a chance to win instant rewards of 100, 500, or 1000! Simply answer correctly and claim your prize directly to your UPI. Exciting, interactive, and rewarding – your knowledge pays off instantly. Join the fun now!</p>
@@ -156,7 +156,7 @@ footer{
   <p2>0.601199 (USD)</p2><ul></ul>
   <p3>50 (INR)</p3>
   <center><button onclick="downloadPDF('|| Quiz or Show Ads And Correct Ans Get 100,500,1000 Instant Your UPI.pdf ||')">CLICK TO PAY</button>
-
+  </div>
 <div class="product">
   <img src="5.jpg" alt="Watch Video And Earn Money Instant Withdraw In Your UPI">
   <p class="description">Unlock a world of instant earnings! Watch engaging videos and earn real money with immediate UPI withdrawals. Experience a seamless way to boost your income effortlessly. Don't miss out on this incredible opportunity! Join now and start earning instantly. Fast, reliable, and hassle-free - your financial freedom awaits!</p>
@@ -164,7 +164,7 @@ footer{
   <p2>0.601199 (USD)</p2><ul></ul>
   <p3>50 (INR)</p3>
   <center><button onclick="downloadPDF('|| Watch Video And Earn Money Instant Withdraw In Your UPI.pdf ||')">CLICK TO PAY</button>
-
+  </div>
 <div class="product">
   <img src="6.jpg" alt="Signup Bonus 500 Rupees,900 Ruppes InvestmentThen You Get 2500 Ruppes, instant Withdraw Your UPI">
   <p class="description">Unlock financial gains with a lucrative offer! Sign up today for a generous 500 Rupees bonus. Invest just 900 Rupees and watch your returns soar to 2500 Rupees! Enjoy instant withdrawals to your UPI. Seize this opportunity for quick and easy profits. Don't miss out on financial success!</p>
@@ -172,7 +172,7 @@ footer{
   <p2>0.601199 (USD)</p2><ul></ul>
   <p3>50 (INR)</p3>
   <center><button onclick="downloadPDF('|| Signup Bonus 500 Rupees,900 Ruppes InvestmentThen You Get 2500 Ruppes, instant Withdraw Your UPI.pdf ||')">CLICK TO PAY</button>
-
+  </div>
 <div class="product">
   <img src="last.jpg" alt="Signup Bonus 60 Ruppes, Complate Daily Task And When Your Balance Has 100 Ruppes Then Withdraw Your UPI Instant">
   <p class="description">Unlock financial rewards with our exclusive signup bonus of 60 Rupees! Seamlessly earn more by completing daily tasks. As your balance reaches 100 Rupees, enjoy instant withdrawals through UPI. Empower your journey towards financial success with our user-friendly platform. Start earning and investing today!</p><ul></ul>
