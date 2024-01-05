@@ -174,7 +174,7 @@ footer{
   <center><button onclick="downloadPDF('|| Signup Bonus 500 Rupees,900 Ruppes InvestmentThen You Get 2500 Ruppes, instant Withdraw Your UPI.pdf ||')">CLICK TO PAY</button>
 
 <div class="product">
-  <img src="C:\Users\vedbh\Downloads\300x0w.jpg" alt="Signup Bonus 60 Ruppes, Complate Daily Task And When Your Balance Has 100 Ruppes Then Withdraw Your UPI Instant">
+  <img src="last.jpg" alt="Signup Bonus 60 Ruppes, Complate Daily Task And When Your Balance Has 100 Ruppes Then Withdraw Your UPI Instant">
   <p class="description">Unlock financial rewards with our exclusive signup bonus of 60 Rupees! Seamlessly earn more by completing daily tasks. As your balance reaches 100 Rupees, enjoy instant withdrawals through UPI. Empower your journey towards financial success with our user-friendly platform. Start earning and investing today!</p><ul></ul>
   <p1>PRICE OF THIS COURSE</p1><ul></ul>
     <p2>0.601199 (USD)</p2><ul></ul>
