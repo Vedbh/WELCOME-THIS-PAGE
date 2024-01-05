@@ -166,7 +166,7 @@ footer{
   <center><button onclick="downloadPDF('|| Watch Video And Earn Money Instant Withdraw In Your UPI.pdf ||')">CLICK TO PAY</button>
 
 <div class="product">
-  <img src="C:\Users\vedbh\Downloads\Online-Earning-Money-Without-Investment.jpg" alt="Signup Bonus 500 Rupees,900 Ruppes InvestmentThen You Get 2500 Ruppes, instant Withdraw Your UPI">
+  <img src="6.jpg" alt="Signup Bonus 500 Rupees,900 Ruppes InvestmentThen You Get 2500 Ruppes, instant Withdraw Your UPI">
   <p class="description">Unlock financial gains with a lucrative offer! Sign up today for a generous 500 Rupees bonus. Invest just 900 Rupees and watch your returns soar to 2500 Rupees! Enjoy instant withdrawals to your UPI. Seize this opportunity for quick and easy profits. Don't miss out on financial success!</p>
   <p1>PRICES OF THIS CORSE</p1><ul></ul>
   <p2>0.601199 (USD)</p2><ul></ul>
