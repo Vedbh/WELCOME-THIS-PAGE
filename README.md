@@ -128,7 +128,7 @@ footer{
 
 
 <div class="product">
-    <img src="C:\Users\vedbh\Downloads\Earn-Money-as-a-CAPTCHA-Solver.png" alt="captcha typing And Earn Money">
+    <img src="2.png" alt="captcha typing And Earn Money">
     <p class="description">Start your day by turning idle moments into rewarding opportunities! Engage in captcha typing and earn effortlessly each morning. Unlock financial possibilities with a simple yet lucrative task. Embrace the convenience of online earnings, making your mornings both productive and profitable. Join now for a seamless journey towards financial independence!"
 
 
