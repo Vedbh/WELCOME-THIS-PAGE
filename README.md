@@ -112,7 +112,7 @@ footer{
     </div>
   </div>
   <div class="product">
-    <img src="C:\Users\vedbh\Downloads\1609685339554.png" alt="Without Investment Earn Money">
+    <img src="1609685339554.png" alt="Without Investment Earn Money">
     <p class="description">Earn money online without investment! Explore freelance opportunities, such as writing, graphic design, or programming on platforms like Upwork and Fiverr. Participate in online surveys, review websites, or monetize your skills through content creation on platforms like YouTube or Medium. Discover numerous ways to generate income without spending a dime!
 
 
