@@ -142,7 +142,7 @@ footer{
     <center><button onclick="downloadPDF('|| Captcha Typing.pdf ||')">CLICK TO PAY</button>
 
 <div class="product">
-  <img src="C:\Users\vedbh\Downloads\maxresdefault.jpg" alt="Invest Only 10 Ruppes And Earn 100 Instant">
+  <img src="2.png" alt="Invest Only 10 Ruppes And Earn 100 Instant">
   <p class="description">Unlock incredible returns with just a 10 Rupee investment! Experience instant growth as your investment multiplies to 100 Rupees. Don't miss this golden opportunity to make your money work for you. Join now for quick and rewarding financial gains, turning a small investment into significant returns in no time!</p>
   <p1>PRICES OF THIS CORSE</p1><ul></ul>
   <p2>0.601199 (USD)</p2><ul></ul>
