@@ -158,7 +158,7 @@ footer{
   <center><button onclick="downloadPDF('|| Quiz or Show Ads And Correct Ans Get 100,500,1000 Instant Your UPI.pdf ||')">CLICK TO PAY</button>
 
 <div class="product">
-  <img src="C:\Users\vedbh\Downloads\htmlF_IMG_63244b6c49815-1024x576.jpg" alt="Watch Video And Earn Money Instant Withdraw In Your UPI">
+  <img src="5.jpg" alt="Watch Video And Earn Money Instant Withdraw In Your UPI">
   <p class="description">Unlock a world of instant earnings! Watch engaging videos and earn real money with immediate UPI withdrawals. Experience a seamless way to boost your income effortlessly. Don't miss out on this incredible opportunity! Join now and start earning instantly. Fast, reliable, and hassle-free - your financial freedom awaits!</p>
   <p1>PRICES OF THIS CORSE</p1><ul></ul>
   <p2>0.601199 (USD)</p2><ul></ul>
