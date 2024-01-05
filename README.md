@@ -150,7 +150,7 @@ footer{
   <center><button onclick="downloadPDF('|| Invest Only 10 Ruppes And Earn 100 Instant.pdf ||')">CLICK TO PAY</button>
 
 <div class="product">
-  <img src="C:\Users\vedbh\Downloads\63debb8e5d006b001cc84780.jpg" alt="Quiz or Show Ads And Correct Ans Get 100,500,1000 Instant Your UPI">
+  <img src="4.jpg" alt="Quiz or Show Ads And Correct Ans Get 100,500,1000 Instant Your UPI">
   <p class="description">Engage, Learn, and Win! Participate in our Quiz or Show Ads challenge for a chance to win instant rewards of 100, 500, or 1000! Simply answer correctly and claim your prize directly to your UPI. Exciting, interactive, and rewarding – your knowledge pays off instantly. Join the fun now!</p>
   <p1>PRICES OF THIS CORSE</p1><ul></ul>
   <p2>0.601199 (USD)</p2><ul></ul>
